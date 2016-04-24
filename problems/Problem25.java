@@ -2,7 +2,7 @@ package problems;
 
 import java.math.BigInteger;
 
-public class Problem19 {
+public class Problem25 {
 	
 	public static void main(String[] args) {
 		BigInteger f1 = BigInteger.ONE;
